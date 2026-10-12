@@ -1,3 +1,10 @@
+node_modules/
+target/
+dist-cljs/
+.shadow-cljs/
+.cpcache/
+/.clj-kondo/.cache/
+
 # eta-mu evidence review scratch (written by the reusable review workflow)
 /.opencode/review-evidence/
 /.review-context/
